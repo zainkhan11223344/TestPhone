@@ -60,11 +60,6 @@
 						<button class="button" id="mic_mute"><img id="mute_icon" src="images/wp_mic_on.gif" alt="mute"></button>
 						<button class="button" id="vol_up"><img id="vol_up_icon" src="images/wp_speaker_up.gif" alt="register"></button>
 						<button class="button" id="vol_down"><img id="vol_down_icon" src="images/wp_speaker_down.gif" alt="register"></button>
-						<h2>Incoming Call</h2>
-                  <p id="call-status">Waiting for call...</p>
-                  <input id="phone-number" type="text" value="" readonly />
-                  <button class="button" id="incoming-call-button">Answer</button>
-                  <button class="button" id="decline-call-button">Decline</button>
 					</section>
 				</section>
 				<!-- End Controls -->
